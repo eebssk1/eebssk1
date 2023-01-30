@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 Support me if you want.
 https://www.buymeacoffee.com/bbktto
+
+More information now available here \/
+https://sh2.godaftwithebk.pub/wordpress/introd/
