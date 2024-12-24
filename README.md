@@ -27,4 +27,4 @@ Support me if you want.
 https://www.buymeacoffee.com/bbktto
 
 More information now available here \/
-https://sh2.godaftwithebk.pub/wordpress/introd/
+https://main.godaftwithebk.pub
