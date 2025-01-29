@@ -23,8 +23,5 @@ Here are some ideas to get you started:
 
 [![EBK21's github stats](https://github-readme-stats.vercel.app/api?username=eebssk1&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Support me if you want.
-https://www.buymeacoffee.com/bbktto
-
 More information now available here \/
 https://main.godaftwithebk.pub
